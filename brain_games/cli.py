@@ -4,6 +4,12 @@ import prompt
 
 
 def welcome_user():
-    """User`s name."""
+    """
+    Имя пользователя.
+
+    Returns:
+        name.
+        """
     name = prompt.string('May I have your name? ')
     print('Hello, {0}!'.format(name))
+    return name
