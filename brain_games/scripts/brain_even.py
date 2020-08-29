@@ -1,13 +1,12 @@
-"""Игра 1. Скрипт."""
+"""Игра 1. Проверка на четность. Скрипт."""
 
-from brain_games import eveness
+from brain_games import even
 
 
 def main():
-    """Приветствие."""
     print('Welcome to the Brain Games!')
     print('Answer "yes" if number even otherwise answer "no".\n')
-    eveness.is_even()
+    even.run_game()
 
 
 if __name__ == '__main__':
