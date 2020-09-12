@@ -22,7 +22,7 @@ def run_game(fun):
     name = welcome_user()
 
     for i in range(3):
-        question, correct_answer = fun
+        question, correct_answer = fun()
 
         question = f"Question: {question}\nYour answer: "
         user_answer = ask_question(question)

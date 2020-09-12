@@ -1,8 +1,8 @@
 # python-project-lvl1
 # Бейджики проекта:
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/6542d3f6d44c851487cf/maintainability)](https://codeclimate.com/github/Everyday24/python-project-lvl1/maintainability)
 
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage" /></a>
+[![Test Coverage](https://api.codeclimate.com/v1/badges/6542d3f6d44c851487cf/test_coverage)](https://codeclimate.com/github/Everyday24/python-project-lvl1/test_coverage)
 
 [![Build Status](https://travis-ci.org/Everyday24/python-project-lvl1.svg?branch=master)](https://travis-ci.org/Everyday24/python-project-lvl1)
 

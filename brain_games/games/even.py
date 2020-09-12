@@ -15,4 +15,4 @@ def generate_question_answer_pair():
 def even():
     logic.greeting()
     print('Answer "yes" if number even otherwise answer "no".\n')
-    logic.run_game(generate_question_answer_pair())
+    logic.run_game(generate_question_answer_pair)
