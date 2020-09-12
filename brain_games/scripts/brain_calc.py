@@ -1,10 +1,10 @@
 """Игра 2. Калькулятор. Скрипт."""
 
-from brain_games import even
+from brain_games.games import calc
 
 
 def main():
-    even.calc()
+    calc.calc()
 
 
 if __name__ == '__main__':
