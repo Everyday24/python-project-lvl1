@@ -9,3 +9,5 @@
 [![Github Actions Status](https://github.com/Everyday24/python-project-lvl1/workflows/Python%20CI/badge.svg)](https://github.com/Everyday24/python-project-lvl1/actions)
 
 [![asciicast](https://asciinema.org/a/leoIpvVdlC4BvkUzVY8aOKsZL.svg)](https://asciinema.org/a/leoIpvVdlC4BvkUzVY8aOKsZL)
+
+[![asciicast](https://asciinema.org/a/E5tehCZrDHCo5Ld04NDXpY3gC.svg)](https://asciinema.org/a/E5tehCZrDHCo5Ld04NDXpY3gC)
