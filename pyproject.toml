@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "EVERYDAY24_brain_games"
-version = "5.0.0"
+version = "5.0.1"
 description = ""
 authors = ["Vitalii Vorobev"]
 packages = [
